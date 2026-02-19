@@ -1,3 +1,11 @@
+<div align="center">
+  <h1>🚨 THIS REPOSITORY IS ARCHIVED 🚨</h1>
+  <p><b>Development has moved to the remastered version.</b></p>
+  <p>Please visit the active repository here: <br>
+  <a href="https://github.com/DAQEM/JobsPlus"><b>https://github.com/DAQEM/JobsPlus</b></a></p>
+</div>
+<hr>
+
 <div id="top"></div>
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- [![Contributors][contributors-shield]][contributors-url]
@@ -7,11 +15,11 @@
 [![MIT License][license-shield]][license-url] -->
 
 <p align="center">
-  <img src="https://img.shields.io/github/contributors/DAQEM/JobsPlus.svg?style=for-the-badge" title="Number of contributors">
-  <img src="https://img.shields.io/github/forks/DAQEM/JobsPlus?color=bightgreen&style=for-the-badge" title="Number of forks">
-  <img src="https://img.shields.io/github/stars/DAQEM/JobsPlus.svg?style=for-the-badge" title="Number of stars">
-  <img src="https://img.shields.io/github/commit-activity/y/DAQEM/JobsPlus?label=Commits&style=for-the-badge" title="Number of commits this year">
-  <img src="https://img.shields.io/github/issues/DAQEM/JobsPlus.svg?style=for-the-badge" title="Number of running issues">
+  <img src="https://img.shields.io/github/contributors/DAQEM/JobsPlus-Archive.svg?style=for-the-badge" title="Number of contributors">
+  <img src="https://img.shields.io/github/forks/DAQEM/JobsPlus-Archive?color=bightgreen&style=for-the-badge" title="Number of forks">
+  <img src="https://img.shields.io/github/stars/DAQEM/JobsPlus-Archive.svg?style=for-the-badge" title="Number of stars">
+  <img src="https://img.shields.io/github/commit-activity/y/DAQEM/JobsPlus-Archive?label=Commits&style=for-the-badge" title="Number of commits this year">
+  <img src="https://img.shields.io/github/issues/DAQEM/JobsPlus-Archive.svg?style=for-the-badge" title="Number of running issues">
   <img src="https://img.shields.io/badge/License-ARR-red.svg?style=for-the-badge" title="All Rights Reserved">
 </p>
 
@@ -20,7 +28,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/DAQEM/JobsPlus">
+  <a href="https://github.com/DAQEM/JobsPlus-Archive">
     <img src="images/logo backgroundless new no glow.png" alt="Logo" width="320" height="320">
   </a>
 
@@ -32,11 +40,11 @@
     <a href="https://docs.google.com/document/d/1xL4aUcM8tNvwqgOFbQXhK8FK6MEvvsRXdzgKuMNAEAg"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.curseforge.com/minecraft/mc-mods/jobsplus">Download Mod</a>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/jobsplus-archive">Download Mod</a>
     ·
-    <a href="https://github.com/DAQEM/JobsPlus/issues">Report Bug</a>
+    <a href="https://github.com/DAQEM/JobsPlus-Archive/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DAQEM/JobsPlus/issues">Request Feature</a>
+    <a href="https://github.com/DAQEM/JobsPlus-Archive/issues">Request Feature</a>
   </p>
 </div>
 
@@ -109,7 +117,7 @@ To get this mod up and running in you Minecraft game, follow these simple steps.
 
 ### Installation
 
-1. Download the mod [here](https://www.curseforge.com/minecraft/mc-mods/jobsplus)
+1. Download the mod [here](https://www.curseforge.com/minecraft/mc-mods/jobsplus-archive)
 2. Drag the mod into your mods folder.
 3. Start your game.
 
@@ -133,7 +141,7 @@ An API for this project has yet to be made, but will be added later.
 
 - [] Add Roadmap
 
-See the [open issues](https://github.com/DAQEM/JobsPlus/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/DAQEM/JobsPlus-Archive/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -175,9 +183,9 @@ Distributed under the All Rights Reserved License. See `LICENSE.txt` for more in
 
 GitHub - [DAQEM](https://github.com/DAQEM)
 
-Discord - DAQEM#8827
+Discord - daqem
 
-Project Link: [https://github.com/DAQEM/JobsPlus](https://github.com/DAQEM/JobsPlus/tree/1.18)
+Project Link: [https://github.com/DAQEM/JobsPlus](https://github.com/DAQEM/JobsPlus-Archive/tree/1.18)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -203,22 +211,22 @@ Resources I find helpful and would like to give credit to!
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/DAQEM/JobsPlus.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/DAQEM/JobsPlus-Archive.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/DAQEM/JobsPlus/graphs/contributors
+[contributors-url]: https://github.com/DAQEM/JobsPlus-Archive/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/DAQEM/JobsPlus.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/DAQEM/JobsPlus-Archive.svg?style=for-the-badge
 
-[forks-url]: https://github.com/DAQEM/JobsPlus/network/members
+[forks-url]: https://github.com/DAQEM/JobsPlus-Archive/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/DAQEM/JobsPlus.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/DAQEM/JobsPlus-Archive.svg?style=for-the-badge
 
-[stars-url]: https://github.com/DAQEM/JobsPlus/stargazers
+[stars-url]: https://github.com/DAQEM/JobsPlus-Archive/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/DAQEM/JobsPlus.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/DAQEM/JobsPlus-Archive.svg?style=for-the-badge
 
-[issues-url]: https://github.com/DAQEM/JobsPlus/issues
+[issues-url]: https://github.com/DAQEM/JobsPlus-Archive/issues
 
-[license-shield]: https://img.shields.io/github/license/DAQEM/JobsPlus.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/DAQEM/JobsPlus-Archive.svg?style=for-the-badge
 
-[license-url]: https://github.com/DAQEM/JobsPlus/blob/master/LICENSE.txt
+[license-url]: https://github.com/DAQEM/JobsPlus-Archive/blob/master/LICENSE.txt
